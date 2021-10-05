@@ -1,2 +1,2 @@
-# desafios_iniciais_everis
-Desafios iniciais do Bootcamp da Everis na DIO
+# Desafios iniciais Everis
+Desafios iniciais realizados no Bootcamp da Everis na DIO
