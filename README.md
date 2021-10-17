@@ -1,3 +1,7 @@
-# Desafio inicial de GITHUB da Everis
-Desafio inicial realizado no Bootcamp da Everis na DIO
-* O desafio consistia apenas em criar um repositório no GitHub
+# Desafios iniciais Bootcamp Everis
+
+Desafios iniciais realizados durante Bootcamp da Everis na DIO
+
+-   Desafios:
+    -   Criar esse repositório no GitHub
+    -   Pasta 'desafio_sql_server': Criar os scripts para criação do banco de dados e tabelas para um 'Gerenciador de espaçonaves do Star Wars' utilizando SqlServer
